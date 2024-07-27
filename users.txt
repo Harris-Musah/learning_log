@@ -1,0 +1,8 @@
+user = MaameYaa
+
+password = KofiMole123#
+
+
+user2 = MarkAnthony
+
+password = Ariana123!
